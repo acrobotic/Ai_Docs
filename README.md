@@ -21,7 +21,7 @@ design files and code for you to use.
 
 The diagram drawings were inspired by the fantastic work of Alberto Piganti:
 
-    * http://www.pighixxx.com
+   * http://www.pighixxx.com
 
 ## License
 
