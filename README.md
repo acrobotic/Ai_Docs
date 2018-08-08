@@ -12,6 +12,7 @@ For more details, check out our Learning Resources site at:
 And our online shop at:
 
    * https://acrobotic.com
+   * https://amazon.com/acrobotic   
 
 These documents were designed by minions at ACROBOTIC Industries.  Please
 consider buying products from us to help fund future Open-Source projects like
