@@ -5,19 +5,22 @@ by ACROBOTIC Industries.
 
 ## Description
 
-For more details, check out our Learning Resources site at:
+For more details, check out the Learning Resources site at:
 
    * http://learn.acrobotic.com
 
-And our online shop at:
+If you like my work, you can help me dedicate more time to building projects, 
+writing code, and making videos about them:
 
-   * https://acrobotic.com
-   * https://amazon.com/acrobotic   
+   * https://www.patreon.com/acrobotic
+   * https://www.paypal.me/acrobotic
 
-These documents were designed by minions at ACROBOTIC Industries.  Please
-consider buying products from us to help fund future Open-Source projects like
-this! We’ll always put our best effort in every project, and release all our
-design files and code for you to use. 
+You can also purchase products from my little online shops to help fund future 
+Open-Source projects like these! I'll always put my best effort in every project, 
+and release all my design files and code for you to use. 
+
+   * https://acrobotic.com/
+   * https://amazon.com/acrobotic
 
 The diagram drawings were inspired by the fantastic work of Alberto Piganti:
 
